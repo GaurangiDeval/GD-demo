@@ -1,3 +1,4 @@
 # GD-demo
 My first Git repository
-author-Gaurangi Deval
+<br>
+Author-Gaurangi Deval
